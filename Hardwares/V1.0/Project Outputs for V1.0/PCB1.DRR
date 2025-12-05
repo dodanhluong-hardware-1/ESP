@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB1.PcbDoc   12/4/2025  6:33:33 PM
+NCDrill File Report For: PCB1.PcbDoc   12/5/2025  4:46:13 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : PCB1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             673       PTH        1666.01mm (65.59inch)
+T1      0.3mm (12mil)                                             Round             690       PTH        1664.05mm (65.51inch)
 T2      0.7mm (28mil)                                             Round             3         PTH        2.54mm (0.10inch)
 T3      0.711mm (28mil)                                           Round             5         PTH        26.24mm (1.03inch)
 T4      1mm (39mil)                                               Round             6         PTH        32.87mm (1.29inch)
@@ -17,6 +17,6 @@ T7      1.524mm (60mil)                                           Round         
 T8      1.6mm (63mil)                                             Round             3         PTH        15.24mm (0.60inch)
 T9      1.8mm (71mil)                                             Round             2         PTH        7.62mm (0.30inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              705
+Totals                                                                              722
 
 Total Processing Time (hh:mm:ss) : 00:00:00
